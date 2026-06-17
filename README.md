@@ -53,14 +53,13 @@ This project aims to predict delivery time based on historical delivery data.
 ---
 ## Images
 
-<img width="1430" height="630" alt="Categrorical Univariate Analysis" src="https://github.com/user-attachments/assets/b9cc8cad-55dc-4374-891b-41db93c4ef43" />
+<img width="1430" height="630" alt="Categrorical Univariate Analysis" src="https://github.com/user-attachments/assets/a8abf622-959e-4109-a85e-b6462943bd55" />
 
-<img width="1097" height="796" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/bb9cd407-0bef-4daf-9d2f-01ced1546760" />
+<img width="1097" height="796" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/40393a34-0a3f-468b-9e9b-ac4932e66cb8" />
 
-<img width="1371" height="605" alt="Data Preprocessing Pipline" src="https://github.com/user-attachments/assets/01b56563-ea52-4c41-b564-8ede67bdc616" />
+<img width="1371" height="605" alt="Data Preprocessing Pipline" src="https://github.com/user-attachments/assets/dfb37177-6db4-4de2-a5c5-af195f910ebe" />
 
-<img width="1360" height="608" alt="Model prediction" src="https://github.com/user-attachments/assets/45e78c03-fa86-4474-91be-095e2286f6ce" />
-
+<img width="1360" height="608" alt="Model prediction" src="https://github.com/user-attachments/assets/c93efa0e-0e01-4a53-a102-d930965a5159" />
 
 
 ## Author
